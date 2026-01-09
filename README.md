@@ -16,6 +16,10 @@ bunx create-github-app
 yarn dlx create-github-app
 ```
 
+> [!NOTE]
+> "First run" downloads the binary so may take a few seconds 🙏
+
+
 ## What it does
 
 1. Opens a browser with a simple form
